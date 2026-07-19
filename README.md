@@ -21,6 +21,8 @@ LAMP,NAME,POSX,POSY,WIDTH,HEIGTH,DEVICE,ADDRESS,BIT -creates red/green bit lamp 
 
 
 
-ESC KEY CLOSES APP
+ESC key closes app
 
-VARIABLES ARE 16BIT LONG SIGNED
+Variables are 16bit signed
+
+Device list is shown in top left corner in red, if device is disconnected or green, if it's connected
