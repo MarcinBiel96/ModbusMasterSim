@@ -1,0 +1,14 @@
+WINDOW,Okno1,50,50,800,600
+DEVICE,panel1,127.0.0.1:503
+DEVICE,panel2,127.0.0.1:502
+DATASET,zmienne,panel2,0,8
+DATASET,zmienne2,panel2,128,4
+DATASET,zmienne3,panel1,0,1
+LABEL,lab1,100,50,Arial,24,Hejka
+LABEL,lab2,100,100,Arial,24,Masa: %i kg,panel2,0,X*0.2+3
+LABEL,lab3,100,250,Arial,24,P2=%i,panel1,0,X
+BUTTON,but1,100,150,100,30,Przycisk_-44,panel2,3,-44
+BUTTON,but2,100,200,100,30,Przycisk_88,panel2,3,88
+BUTTON,but3,100,300,100,30,Przycisk_11,panel1,0,11
+BUTTON,but4,100,350,100,30,Przycisk_12,panel1,0,12
+LAMP,lam1,100,400,32,32,panel2,1,1
