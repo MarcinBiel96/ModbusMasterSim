@@ -3,7 +3,7 @@ Simple modbus master simulator with controls. Based on https://apollo3zehn.githu
 
 How to use:
 
-In file Config.txt add elements:
+Create file Config.txt in .exe folder and add elements:
 
 WINDOW,NAME,POSX,POSY,WIDTH,HEIGTH -sets window position and size, should be used once
 
