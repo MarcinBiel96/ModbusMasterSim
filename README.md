@@ -2,6 +2,7 @@ Simple modbus master simulator with controls. Based on https://apollo3zehn.githu
 
 
 How to use:
+
 In file Config.txt add elements:
 
 WINDOW,NAME,POSX,POSY,WIDTH,HEIGTH -sets window position and size, should be used once
@@ -21,4 +22,5 @@ LAMP,NAME,POSX,POSY,WIDTH,HEIGTH,DEVICE,ADDRESS,BIT -creates red/green bit lamp 
 
 
 ESC KEY CLOSES APP
+
 VARIABLES ARE 16BIT LONG SIGNED
